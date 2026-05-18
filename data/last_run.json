@@ -1,12 +1,7 @@
 {
-  "executado_em": "2026-05-17T14:24:15",
-  "eventos_novos": 11,
+  "executado_em": "2026-05-18T16:20:17",
+  "eventos_novos": 0,
   "eventos_janela_total": 11,
   "lookback_days": 10,
-  "empresas_com_evento_novo": [
-    "AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL",
-    "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO",
-    "CVLB BRASIL S.A.",
-    "GRUPO CASAS BAHIA S.A."
-  ]
+  "empresas_com_evento_novo": []
 }
